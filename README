@@ -1,0 +1,15 @@
+recads - restricted environment c algrithms and data structures
+
+This projects is created to provide some classic data structure and related algrithms for some resource restricted environment, such as old OS, or embedded environment.I'll restricted the C Library usage, such as qsort functions WON'T be used in this project.
+
+As this project is design for restricted enviroment, I'll use the stupid and sample GNU make as our build system, so we'll reduce the tools usage.
+
+These source code are distributed under the liscense of BSD, so you can do whatever you want only keep the original author information.
+
+I'll add more discription after I actually wrote some code.
+
+
+Love,
+Leaf(In the memory of Ken)
+
+
